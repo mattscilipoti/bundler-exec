@@ -53,6 +53,7 @@ guard
 haml
 heroku
 html2haml
+kicker
 rackup
 rails
 rake
@@ -64,6 +65,7 @@ sass-convert
 serve
 shotgun
 spec
+spin
 spork
 thin
 thor
